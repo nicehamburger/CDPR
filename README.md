@@ -1,1 +1,1 @@
-# Planar-CDPR
+# Cable-Driven Parallel Robot

@@ -53,5 +53,4 @@ src/
 |   |-- System_constT.py         # System Attributes and Functions
 |   |-- System_InverseKinematics.py # Client Code for Inverse Kinematics
 |-- vision-server/
-|-- myenv/
 |-- vision_server              # Code for Homography computation

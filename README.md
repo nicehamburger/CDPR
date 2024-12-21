@@ -49,8 +49,8 @@ Clone the repository:
 ```
 src/
 |-- ev3-client/
-|   |-- sample_client.py         # Client Code for Visual Tracking
-|   |-- System_constT.py         # System Attributes and Functions
-|   |-- System_InverseKinematics.py # Client Code for Inverse Kinematics
+|   |-- sample_client.py               # Client Code for Visual Tracking
+|   |-- System_constT.py               # System Attributes and Functions
+|   |-- System_InverseKinematics.py    # Client Code for Inverse Kinematics
 |-- vision-server/
-    |-- vision_server              # Code for Homography computation
+    |-- vision_server                 # Code for Homography computation
